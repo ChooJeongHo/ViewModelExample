@@ -1,2 +1,2 @@
-ViewModel과 UnitTest를 공부하기 위한 샘플입니다.
+ViewModel과 UnitTest 샘플입니다.
 
